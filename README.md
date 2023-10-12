@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f23/jpa02-daniel-li2021
 
-Deployed at: jpa02-daniel-li2021.dokku-09.cs.ucsb.edu
+Deployed at: http://jpa02-daniel-li2021.dokku-09.cs.ucsb.edu
 
 
 # About this repo
